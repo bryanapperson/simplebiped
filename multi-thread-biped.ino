@@ -1,5 +1,3 @@
-no Biped with 3C++
-
 #include <Servo.h>
 #include <ChibiOS_AVR.h>
 
